@@ -1,0 +1,1 @@
+https://addons.mozilla.org/firefox/downloads/file/1733812/tampermonkey-4.9.5921-an+fx.xpi
