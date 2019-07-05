@@ -1,1 +1,2 @@
 https://addons.mozilla.org/firefox/downloads/file/1733812/tampermonkey-4.9.5921-an+fx.xpi
+https://addons.mozilla.org/firefox/downloads/file/1065858/new_tab_toolbar_button-1.0-an+fx.xpi
